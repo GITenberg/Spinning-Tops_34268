@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36912'
     url: http://www.gutenberg.org/2009/agents/36912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34268#Spinning-Tops
 gutenberg_issued: '2010-11-09'
 gutenberg_type: Text
 identifiers:
