@@ -1,0 +1,29 @@
+_repo: Spinning-Tops_34268
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perry, John
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '36912'
+    url: http://www.gutenberg.org/2009/agents/36912
+description: ''
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Gyro compass'
+- !lcsh 'Tops'
+- !lcsh 'Gyroscopes'
+title: "Spinning Tops\r\nThe \"Operatives' Lecture\" of the British Association Meeting\
+  \ at Leeds, 6th September, 1890"
+url: http://www.gutenberg.org/ebooks/34268
